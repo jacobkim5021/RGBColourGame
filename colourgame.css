@@ -55,7 +55,7 @@ button {
 	-webkit-transition: background 0.2s;
 	-moz-transition: background 0.2s;
 	outline: none;
-	font-family: Barlow Semi Condensed;
+	font-family: 'Barlow Semi Condensed';
 }
 
 button:hover {
